@@ -19,6 +19,13 @@
 
 }
 
+#Header h1{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+}
+
 #Content{
 	border: solid 8px black;
 	width: 700px;
@@ -43,13 +50,6 @@ ul{
 	padding-left: 0px;
 }
 
-#Header h1{
-	font-size: 60px;
-	font-family: "Passion One";
-	color: #FFBC00;
-	font-weight: bold;
-}
-
 body{
 	background-image: url('dark_wood.png');
 }	
@@ -65,7 +65,3 @@ p{
  color: white;
  font-family: "Arial";
 }
-
-
-
-
